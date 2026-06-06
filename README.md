@@ -1,62 +1,69 @@
-<h1 align="center">Hi, I'm Taha El Bouzidi 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Engineer;AI+Systems+Builder;Entrepreneur" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=120&section=header&text=Taha%20El%20Bouzidi&fontSize=42&fontColor=39D353&animation=fadeIn&fontAlignY=60" width="100%"/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=900&color=39D353&center=true&vCenter=true&width=520&lines=Solo+CTO+%2F+Fullstack+Engineer;Founder+at+MyUstadia+%28UK+Ltd%29+%26+BARBARIA;Built+a+dual-AI+operating+system+from+scratch;Morocco+%2F+Remote)](https://git.io/typing-svg)
 
-### About Me
+</div>
 
-- Building AI-powered products end to end, from architecture to deployment
-- Founder working across e-commerce, desktop apps, and AI pipelines
-- Currently: Barbaria (Moroccan brand platform) + Outreach Hub (AI prospecting engine)
-- Always exploring the boundary between automation and craft
+<br/>
 
----
+I build full-stack products, AI systems, and brands from zero. Currently shipping **MyUstadia** (EdTech, UK Ltd), running **BARBARIA**, and operating **HAVOK**: my personal dual-AI orchestration layer built on Claude and Gemini that manages my entire portfolio.
 
-### Tech Stack
+<br/>
 
-**Languages**
+## Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend & AI**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-AI-orange?style=flat)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white)
-
----
-
-### Current Projects
-
-| Project | Description |
+| Project | What it is |
 |---|---|
-| **Barbaria** | Multi-line Moroccan brand — cosmetics, textile, food. Built with Next.js + i18n |
-| **Outreach Hub V10** | AI-powered B2B outreach desktop app with Columbo pipeline (PySide6 + Claude) |
+| **MyUstadia** | EdTech platform for Arabic-speaking students. UK-incorporated. AI-powered. |
+| **BARBARIA** | Premium barber brand. Morocco. |
+| **HAVOK** | Personal AI operating system. Dual-AI (Claude + Gemini). Manages every project, decision, and data point in my life. |
+| **Watson** | AI consulting framework. Deployed for B2B clients. |
 
----
+<br/>
 
-### GitHub Stats
+## Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taha-ElBouzidi&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-ElBouzidi&layout=compact&theme=dark&hide_border=true" height="165" />
-</p>
+<div align="center">
 
----
+[![Skills](https://skillicons.dev/icons?i=nextjs,ts,python,supabase,nodejs,postgres,vercel,git&theme=dark)](https://skillicons.dev)
 
-### Contact
+</div>
 
-[![Email](https://img.shields.io/badge/ta.elbouzidi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ta.elbouzidi@gmail.com)
+<br/>
+
+## Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Taha-ElBouzidi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9&count_private=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Taha-ElBouzidi&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-ElBouzidi&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=c9d1d9&langs_count=6)
+
+</div>
+
+<br/>
+
+## Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/ta.elbouzidi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ta.elbouzidi@gmail.com)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=80&section=footer" width="100%"/>
