@@ -1,27 +1,69 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a0a2e,100:0d1117&height=140&section=header&text=Taha%20El%20Bouzidi&fontSize=44&fontColor=A855F7&animation=fadeIn&fontAlignY=62&desc=Solo%20CTO%20%2F%20Founder%20%2F%20Builder&descSize=14&descAlignY=80&descColor=8B5CF6" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=120&section=header&text=Taha%20El%20Bouzidi&fontSize=42&fontColor=39D353&animation=fadeIn&fontAlignY=60" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2400&pause=900&color=A855F7&center=true&vCenter=true&width=560&lines=Co-Founder+%26+CTO+at+MyUstadia+(UK+Ltd);I+built+a+dual-AI+system+that+runs+my+life;Computer+vision+%2F+LLMs+%2F+Full-stack;Morocco+%2F+Remote)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=900&color=39D353&center=true&vCenter=true&width=520&lines=Solo+CTO+%2F+Fullstack+Engineer;Founder+at+MyUstadia+%28UK+Ltd%29+%26+BARBARIA;Built+a+dual-AI+operating+system+from+scratch;Morocco+%2F+Remote)](https://git.io/typing-svg)
+<br/>
+
+[![Email](https://img.shields.io/badge/ta.elbouzidi%40gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ta.elbouzidi@gmail.com)
 
 </div>
 
 <br/>
 
-I build full-stack products, AI systems, and brands from zero. Currently shipping **MyUstadia** (EdTech, UK Ltd), running **BARBARIA**, and operating **HAVOK**: my personal dual-AI orchestration layer built on Claude and Gemini that manages my entire portfolio.
+I build full-stack products, AI systems, and brands from zero. Co-founder and CTO at **MyUstadia** (UK Ltd). I also run **HAVOK**: a dual-AI operating system built on Claude and Gemini that manages my entire portfolio, calendar, health, and business decisions autonomously.
 
 <br/>
+
+---
 
 ## Projects
 
-| Project | What it is |
-|---|---|
-| **MyUstadia** | EdTech platform for Arabic-speaking students. UK-incorporated. AI-powered. |
-| **BARBARIA** | Premium barber brand. Morocco. |
-| **HAVOK** | Personal AI operating system. Dual-AI (Claude + Gemini). Manages every project, decision, and data point in my life. |
-| **Watson** | AI consulting framework. Deployed for B2B clients. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### MyUstadia
+AI-powered course creation for Arabic-speaking students. Upload documents, generate full courses with exams and oral practice AI. UK-incorporated, first client live.
+
+</td>
+<td width="50%" valign="top">
+
+### HAVOK
+Dual-AI personal operating system. Claude + Gemini, wired into every project, decision, and data point in my life. The system that runs the systems.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Outreach Hub
+AI-powered B2B sales automation. Per-prospect deep research and outreach drafting via Gemini. Python, PySide6, Selenium, Supabase.
+
+</td>
+<td width="50%" valign="top">
+
+### Self-Driving Cars
+Autonomous vehicle perception system. End-to-end pipeline: camera input, lane and object detection, steering output. Computer vision and deep learning.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### BARBARIA
+Moroccan natural cosmetics brand. Argan oil and savon beldi. Brand identity, photography, and digital presence.
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
 
 <br/>
+
+---
 
 ## Stack
 
@@ -33,37 +75,53 @@ I build full-stack products, AI systems, and brands from zero. Currently shippin
 
 <br/>
 
+---
+
+## Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Taha-ElBouzidi&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+---
+
 ## Stats
 
 <div align="center">
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Taha-ElBouzidi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9&count_private=true" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Taha-ElBouzidi&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-    </td>
-  </tr>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Taha-ElBouzidi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=Taha-ElBouzidi&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+</td>
+</tr>
 </table>
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-ElBouzidi&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=c9d1d9&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-ElBouzidi&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=6)
 
 </div>
 
 <br/>
 
-## Contact
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/ta.elbouzidi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ta.elbouzidi@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taha-ElBouzidi/Taha-ElBouzidi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taha-ElBouzidi/Taha-ElBouzidi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Taha-ElBouzidi/Taha-ElBouzidi/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a0a2e,100:0d1117&height=100&section=footer" width="100%"/>
